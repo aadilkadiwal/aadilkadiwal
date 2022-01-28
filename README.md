@@ -1,7 +1,7 @@
 ### Hi there, I'm Aadil   👋
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn skills and do projects
+- 🥅 2022 Goals: Learn skills and do projects
 - ⚡ Fun fact: I love travelling and play video games
 
 ### Connect with me:
