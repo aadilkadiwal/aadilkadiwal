@@ -36,7 +36,7 @@
 
 [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/ubuntu.svg" />][ubuntu]
 
-[<img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/slack.svg" />][slack]
+[<img align="left" alt="Slack" width="26px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/slack.svg" />][slack]
 
 
 <br />
