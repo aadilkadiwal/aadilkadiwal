@@ -6,37 +6,33 @@
 
 ### Connect with me:
 
-[<img align="left" alt="aadilkadiwal | Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="aadilkadiwal | Gmail " height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/gmail.png" />][gmail]
 
-[<img align="left" alt="aadilkadiwal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aadilkadiwal | LinkedIn" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/linkedin.png" />][linkedin]
 
-[<img align="left" alt="aadilkadiwal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="aadilkadiwal | Twitter" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/twitter.png" />][twitter]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/python.png" />][python]
+[<img align="left" alt="Python" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/python.png" />][python]
 
-[<img align="left" alt="Django" width="26px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/django.png" />][django]
+[<img align="left" alt="Django" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/django.png" />][django]
 
-[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/pandas.svg" />][pandas]
+[<img align="left" alt="Pandas" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/pandas.svg" />][pandas]
 
-[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/postgresql.svg" />][postgresql]
+[<img align="left" alt="PostgreSQL" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/postgresql.png" />][postgresql]
 
-[<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/postman.svg" />][postman]
+[<img align="left" alt="Postman" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/postman.png" />][postman]
 
-[<img align="left" alt="Pre-commit" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/pre-commit.svg" />][pre-commit]
+[<img align="left" alt="Git" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/git.png" />][git]
 
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/git.svg" />][git]
+[<img align="left" alt="Github" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/github.png" />][github]
 
-[<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/github.svg" />][github]
+[<img align="left" alt="Visual Studio Code" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/visualstudio.png" />][visualstudiocode]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/visualstudiocode.svg" />][visualstudiocode]
-
-[<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/ubuntu.svg" />][ubuntu]
-
-[<img align="left" alt="Slack" width="26px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/slack.svg" />][slack]
+[<img align="left" alt="Slack" height="30px" width="30px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/slack.svg" />][slack]
 
 
 <br />
@@ -59,14 +55,10 @@
 
 [postman]: https://www.postman.com
 
-[pre-commit]: https://pre-commit.com
-
 [git]: https://git-scm.com
 
 [github]: https://github.com
 
 [visualstudiocode]: https://code.visualstudio.com
-
-[ubuntu]: https://ubuntu.com
 
 [slack]: https://slack.com
