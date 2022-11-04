@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/python.svg" />][python]
+[<img align="left" alt="Python" width="26px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/python.png" />][python]
 
 [<img align="left" alt="Django" width="26px" src="https://github.com/aadilkadiwal/icons_and_symbols/blob/main/django.png" />][django]
 
